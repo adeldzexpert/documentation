@@ -203,8 +203,8 @@ available methods are standard price, average price, :abbr:`LIFO (Last-In, First
 :abbr:`FIFO (First-In, First-Out).`
 
 .. seealso::
-   :doc:`View the impact of the valuation methods on transactions
-   <../inventory_and_mrp/inventory/management/reporting/inventory_valuation_config>`
+   :ref:`View the impact of the valuation methods on transactions
+   <inventory/management/inventory_valuation_config>`
 
 Retained earnings
 =================

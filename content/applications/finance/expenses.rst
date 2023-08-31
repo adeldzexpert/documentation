@@ -41,8 +41,9 @@ drop-down menu (most products will be set to :guilabel:`Units`).
    units, miles, nights, etc.). Go to :menuselection:`Sales app --> Configuration --> Settings` and
    ensure `Units of Measure` is enabled in the `Product Catalog` section. Click on the
    :guilabel:`Units of Measure` internal link to view, create, and edit the units of measure. Refer
-   to :doc:`this document </applications/inventory_and_mrp/inventory/management/products/uom>` to
-   learn more about units of measure and how to configure them.
+   to :doc:`this document
+   <../inventory_and_mrp/inventory/product_management/product_replenishment/uom>` to learn more
+   about units of measure and how to configure them.
 
 .. image:: expenses/new-expense-product.png
    :align: center
