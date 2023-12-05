@@ -101,12 +101,11 @@ right type among the following list:
 |Other          | Other        | Off-Balance Sheet       |
 +---------------+--------------+-------------------------+
 
-Assets, deferred expenses, and deferred revenues automation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Assets
+~~~~~~
 
 Some **account types** display a new field **to automate** the creation of :ref:`assets
-<assets-automation>` entries, :ref:`deferred expenses <deferred-expenses-automation>` entries,
-and :ref:`deferred revenues <deferred-revenues-automation>` entries.
+<assets-automation>` entries.
 
 You have three choices for the :guilabel:`Automation` field:
 
